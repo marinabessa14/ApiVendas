@@ -1,0 +1,15 @@
+
+{
+    "numerovenda": ["1"],
+    "data":["18/10/2022"],
+    "cpf_cnpj":["123.123.123.12"],
+    "nome":["Jose da Silva"],
+    "cpf_vendendor": ["321.321.321.32"],
+    "itens": ["codproduto:1", "descricao: cafe", "quantidade: 3", "valorunitario: 12.5"],
+    "itens2": ["codproduto:2" ,"descricao: leite" ,"quantidade: 2" ,"valorunitario: 4.75" ],
+    "valordeentrada":["5.00"],
+    "quantidadedeparcela":["2"]
+
+
+
+}
