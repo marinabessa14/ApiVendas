@@ -44,7 +44,7 @@ def obter_vendas():
 
 @app.route('/venda/1',methods=['GET'])
 def obter_vendas_paramentro():
-    return jsonify('codproduto: 1','descricao:cafe','quantidade:3','valorunitario:12.5')
+    return jsonify('vendas')
 
 @app.route('/venda/',methods=['GET'])
 def obter_vendas_cabecalho():
